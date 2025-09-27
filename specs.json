@@ -1,0 +1,15 @@
+{
+  "specs": [
+    {
+      "title": "My Technical Specification",
+      "spec_directory": "./",
+      "output_path": "./build",
+      "logo": "https://via.placeholder.com/150x50/007ACC/FFFFFF?text=My+Spec",
+      "source": {
+        "host": "github",
+        "account": "yourusername",
+        "repo": "my-spec-repo"
+      }
+    }
+  ]
+}
