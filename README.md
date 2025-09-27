@@ -13,7 +13,7 @@ This repository contains a technical specification created using [Spec-Up](https
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/my-spec-repo.git
+   git clone https://github.com/lukefryer1234/my-spec-repo.git
    cd my-spec-repo
    ```
 

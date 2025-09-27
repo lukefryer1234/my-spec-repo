@@ -2,7 +2,7 @@
 
 **Specification Status:** Draft
 
-**Latest Draft:** [GitHub Repository](https://github.com/yourusername/my-spec-repo)
+**Latest Draft:** [GitHub Repository](https://github.com/lukefryer1234/my-spec-repo)
 
 **Editors:**
 ~ Your Name (Your Organization)
